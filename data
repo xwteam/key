@@ -1,1 +1,1 @@
-<?php echo data("y"); ?>
+<? php echo data("y"); ?>
